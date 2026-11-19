@@ -23,6 +23,11 @@
 #   at home and in Russia, so reverse causality and omitted variables remain.
 #   Causal designs (instruments such as host-country shocks, or difference-in-
 #   differences around policy changes) are a natural next step.
+# -----------------------------------------------------------------------------
+# Copyright (c) 2026 Khilola Ruziboeva
+# Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+#            and non-commercial research; commercial use needs permission.
+# Citation : see CITATION.cff
 # =============================================================================
 
 source("R/00_setup.R")

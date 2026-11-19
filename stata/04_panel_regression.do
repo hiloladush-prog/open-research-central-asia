@@ -15,6 +15,11 @@
 *
 * These are associations, not causal effects (reverse causality and omitted
 * variables remain). See the README for ideas on causal designs.
+* -----------------------------------------------------------------------------
+* Copyright (c) 2026 Khilola Ruziboeva
+* Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+*            and non-commercial research; commercial use needs permission.
+* Citation : see CITATION.cff
 * =============================================================================
 
 do "stata/00_setup.do"

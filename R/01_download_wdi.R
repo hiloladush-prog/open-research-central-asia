@@ -12,6 +12,11 @@
 #
 # No internet? Run R/utils/simulate_panel.R instead. It writes a simulated
 # file with the same structure so you can still practise every later step.
+# -----------------------------------------------------------------------------
+# Copyright (c) 2026 Khilola Ruziboeva
+# Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+#            and non-commercial research; commercial use needs permission.
+# Citation : see CITATION.cff
 # =============================================================================
 
 source("R/00_setup.R")

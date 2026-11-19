@@ -7,6 +7,11 @@
 *
 * Offline? Run the R simulation (Rscript R/utils/simulate_panel.R), set
 * local source "csv" in 02_clean_panel.do, and skip step 01 below.
+* -----------------------------------------------------------------------------
+* Copyright (c) 2026 Khilola Ruziboeva
+* Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+*            and non-commercial research; commercial use needs permission.
+* Citation : see CITATION.cff
 * =============================================================================
 
 capture log close

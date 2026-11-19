@@ -1,6 +1,11 @@
 # Open Research Central Asia
 
-Open-source quantitative research tools, reproducible **R** and **Stata** workflows, and research resources for **Central Asia**: Kazakhstan, the Kyrgyz Republic, Tajikistan, Turkmenistan and Uzbekistan.
+[![Code licence: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/code-PolyForm%20Noncommercial%201.0.0-blue)](LICENSE)
+[![Docs licence: CC BY-NC 4.0](https://img.shields.io/badge/docs-CC%20BY--NC%204.0-lightgrey)](LICENSE-docs.md)
+
+Freely available quantitative research tools, reproducible **R** and **Stata** workflows, and research resources for **Central Asia**: Kazakhstan, the Kyrgyz Republic, Tajikistan, Turkmenistan and Uzbekistan.
+
+Created and maintained by **Khilola Ruziboeva** (Westminster International University in Tashkent). Free for teaching and non-commercial research; see [Licence](#licence).
 
 The project has two goals:
 
@@ -135,4 +140,12 @@ If you use this material, please cite it using the information in [CITATION.cff]
 
 ## Licence
 
-Code is released under the [MIT Licence](LICENSE). Data remain under the licences of their original providers.
+Copyright (c) 2026 Khilola Ruziboeva.
+
+- **Code** (`R/`, `stata/`): [PolyForm Noncommercial License 1.0.0](LICENSE)
+- **Documentation and teaching materials** (`docs/`, `teaching/`, this README): [CC BY-NC 4.0](LICENSE-docs.md)
+- **Data** remain under the licences of their original providers.
+
+You are welcome to use, adapt and share this work for **teaching and non-commercial research**, with credit. **Commercial use** (for example in a paid course platform, app or consulting product) requires a separate licence; see [NOTICE.md](NOTICE.md).
+
+To report a security or data-protection problem, see [SECURITY.md](SECURITY.md).

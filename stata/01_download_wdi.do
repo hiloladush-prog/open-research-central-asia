@@ -8,6 +8,11 @@
 * Why keep a raw copy? The World Bank revises its data several times a year.
 * Saving the exact file you downloaded, with the date, lets anyone reproduce
 * your results later.
+* -----------------------------------------------------------------------------
+* Copyright (c) 2026 Khilola Ruziboeva
+* Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+*            and non-commercial research; commercial use needs permission.
+* Citation : see CITATION.cff
 * =============================================================================
 
 do "stata/00_setup.do"

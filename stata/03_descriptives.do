@@ -6,6 +6,11 @@
 *          output/figures/remittances_over_time_stata.png
 *          output/figures/remittances_vs_growth_stata.png
 * Mirrors: R/03_descriptives.R
+* -----------------------------------------------------------------------------
+* Copyright (c) 2026 Khilola Ruziboeva
+* Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+*            and non-commercial research; commercial use needs permission.
+* Citation : see CITATION.cff
 * =============================================================================
 
 do "stata/00_setup.do"

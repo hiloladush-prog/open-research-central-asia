@@ -5,8 +5,11 @@
 #           list and indicator list used throughout the workflow.
 # Usage   : You do not normally run this file on its own. Every other script
 #           starts with  source("R/00_setup.R").
-# Author  : Open Research Central Asia contributors
-# Licence : MIT (see LICENSE)
+# -----------------------------------------------------------------------------
+# Copyright (c) 2026 Khilola Ruziboeva
+# Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+#            and non-commercial research; commercial use needs permission.
+# Citation : see CITATION.cff
 # =============================================================================
 
 # ---- 1. Packages ------------------------------------------------------------

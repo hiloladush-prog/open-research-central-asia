@@ -26,6 +26,16 @@ Thank you for your interest in improving Open Research Central Asia. Contributio
 - If you added a package, add it to `required_packages` in `R/00_setup.R` (or to the SSC list in `stata/00_setup.do`).
 - Update `README.md` if you added a workflow or changed how something is run.
 
+## Licensing of contributions
+
+By submitting a contribution (pull request, patch or suggested text), you agree that:
+
+1. your contribution is your own work, or you have the right to submit it;
+2. it is licensed under the same terms as the part of the project it changes (PolyForm Noncommercial 1.0.0 for code; CC BY-NC 4.0 for documentation and teaching materials); and
+3. the project maintainer, Khilola Ruziboeva, may also license your contribution to others under different terms, including commercial licences.
+
+Contributors are credited in the commit history and, for substantial contributions, in `CITATION.cff`.
+
 ## Code of conduct
 
 Be respectful and constructive. This is an academic project built in good faith; critique ideas, not people.

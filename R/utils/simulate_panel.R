@@ -11,6 +11,11 @@
 # The numbers are NOT real. The true effect of remittances on GDP per capita
 # growth is set below (true_beta_remit), so students can check whether the
 # fixed-effects estimator recovers it and the pooled OLS estimator does not.
+# -----------------------------------------------------------------------------
+# Copyright (c) 2026 Khilola Ruziboeva
+# Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+#            and non-commercial research; commercial use needs permission.
+# Citation : see CITATION.cff
 # =============================================================================
 
 source("R/00_setup.R")

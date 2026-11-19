@@ -7,6 +7,11 @@
 *           directory to the project root (the folder with README.md) first:
 *               cd "C:/Users/you/Documents/open-research-central-asia"
 * Mirrors : R/00_setup.R  (same countries, years and indicators)
+* -----------------------------------------------------------------------------
+* Copyright (c) 2026 Khilola Ruziboeva
+* Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+*            and non-commercial research; commercial use needs permission.
+* Citation : see CITATION.cff
 * =============================================================================
 
 version 16

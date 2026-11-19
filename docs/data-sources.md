@@ -61,3 +61,7 @@ Uzbekistan also runs an open-data portal; the statistics agency lists the **nati
 ---
 
 *Know a useful source that is missing? Please open an issue or a pull request; see [CONTRIBUTING.md](../CONTRIBUTING.md).*
+
+---
+
+© 2026 Khilola Ruziboeva. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for teaching and non-commercial use with credit; see [NOTICE.md](../NOTICE.md).

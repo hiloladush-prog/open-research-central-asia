@@ -64,3 +64,7 @@ source("R/run_all.R")
 ---
 
 *Lecturers: the simulated data use a fixed seed, so every student gets identical numbers in Part A, which makes marking straightforward.*
+
+---
+
+© 2026 Khilola Ruziboeva. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for teaching and non-commercial use with credit; see [NOTICE.md](../NOTICE.md).

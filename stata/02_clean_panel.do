@@ -7,6 +7,11 @@
 * Mirrors: R/02_clean_panel.R
 *
 * Golden rule: never edit raw data by hand; every change happens in code.
+* -----------------------------------------------------------------------------
+* Copyright (c) 2026 Khilola Ruziboeva
+* Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+*            and non-commercial research; commercial use needs permission.
+* Citation : see CITATION.cff
 * =============================================================================
 
 do "stata/00_setup.do"

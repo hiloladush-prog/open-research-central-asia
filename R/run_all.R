@@ -7,6 +7,11 @@
 #
 # Running everything from one file is what makes a project reproducible:
 # anyone can get from raw data to final tables with a single command.
+# -----------------------------------------------------------------------------
+# Copyright (c) 2026 Khilola Ruziboeva
+# Licence  : PolyForm Noncommercial 1.0.0 (see LICENSE). Free for teaching
+#            and non-commercial research; commercial use needs permission.
+# Citation : see CITATION.cff
 # =============================================================================
 
 args <- commandArgs(trailingOnly = TRUE)
